@@ -1,0 +1,6 @@
+images/
+ppms/
+gpu_accelerated/images
+gpu_accelerated/ppms
+pure_cpp/images
+pure_cpp/ppms
